@@ -1,0 +1,15 @@
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+#shop-header {
+	background-image: url('../img/jumbotron-bg.jpg');
+	background-size: cover;
+	background-position: 50% 40%;
+	height: 100%;
+	color: white;
+	margin-top: 100px;
+}
+#shop-header p {
+	color: #dde6ee;
+}
